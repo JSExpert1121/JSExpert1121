@@ -1,5 +1,16 @@
 ## Senior Typescript/React.js/Next.js/Gatsby.js Engineer
 
+![](https://komarev.com/ghpvc/?username=JSExpert1121)   <br />
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=JSExpert1121&column=8&theme=onedark"/>
+</div>
+<div>
+  <h4>👨🏻‍💻 GitHub Usage stats</h4>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=JSExpert1121&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSExpert1121&layout=compact" />
+</div>
+
 I am an experienced frontend developer interested in building usable, useful, well-constructed websites and applications. Interested in continuation of learning and cooperation with excellent people.
 
 My skills include
