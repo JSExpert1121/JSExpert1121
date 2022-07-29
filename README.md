@@ -7,8 +7,8 @@
 </div>
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JSExpert1121&show_icons=true&theme=blueberry&hide_border=true"  />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSExpert1121&layout=compact&theme=blueberry&hide_border=true" />
+  <img width="49.5%" height="240px" src="https://github-readme-stats.vercel.app/api?username=JSExpert1121&show_icons=true&theme=blueberry&hide_border=true"  />
+  <img width="49.5%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSExpert1121&layout=compact&theme=blueberry&hide_border=true" />
 </div>
 
 
