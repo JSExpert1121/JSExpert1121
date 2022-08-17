@@ -1,4 +1,4 @@
-## Senior Typescript/React.js/Next.js/Gatsby.js Engineer
+## Senior Typescript/React.js/Next.js/Gatsby.js Python/Django/FastAPI/Flask Engineer
 
 ![](https://komarev.com/ghpvc/?username=JSExpert1121)   <br />
 <div>
