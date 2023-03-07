@@ -1,4 +1,4 @@
-## Senior React.js/Typescript Python/Django/FastAPI/Flask Engineer
+## Senior React.js/Typescript & Python Engineer
 
 ![](https://komarev.com/ghpvc/?username=JSExpert1121)   <br />
 <div>
